@@ -1,0 +1,18 @@
+It is going to help student in making schedule and time management.
+There are a lot of events going on College, specially on weekends or any fest, and we tend to forget it or we have a lot of confusion regarding it.
+This project will automatically :-
+Phase 1: 
+1.	There will be two types of users - Orgniser, Participant  
+2.	The organiser can update all the events that are going to happen in the college.
+3. 	It will contain Name of the event, date, venue, importance, club which is going to organise them.
+	Note :- It will not contain Detail of the event. For detail, participants have to search it over Mail.
+4. 	The participant can remove/delete event.
+5.	The participant can filter the event according to Club, Date, Time, Name.
+6.	It will contain log in system and registraion system also and Forget Password feature also.
+
+Phase 2:
+1.	Add books which we have taken from liberary - Name of Book, reference code, Date of issue, Last date of submission, is it with you or submitted.
+2.	Add reminder system for events, Add Registration Cost, Add Reward system
+3.	If you are interested, you can update it so that organizer will know how many students are interested.
+4.	Add expenditure - Day, Weekly, Monthly and Yearly. For What and How much
+
